@@ -52,7 +52,7 @@ public class PushMe extends Application
         
         //add the scene to the stage, then configure the stage and make it visible
         stage.setScene(scene);
-        stage.setTitle("Push Me");
+        stage.setTitle("Kervy How");
         stage.show();        
     }
     
